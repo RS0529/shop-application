@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Apple IPhone",
+        "imageUrl": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-silver-220907_inline.jpg.large.jpg",
+        "description": "Iphone 14",
+        "price": "400"
+    },
+    {
+        "id": 2,
+        "title": "Samsung A30s",
+        "imageUrl": "https://images.samsung.com/is/image/samsung/pk-galaxy-a30s-a307-sm-a307fzkvpak-front-thumb-183355434?$480_480_PNG$",
+        "description": "Foldable",
+        "price": "450"
+    },
+    {
+        "id": 3,
+        "title": "OnePlus",
+        "imageUrl": "https://navbharattimes.indiatimes.com/photo/msid-91046151,imgsize-23010/pic.jpg",
+        "price": "29",
+        "description": "It Good Battery Backup"
+    },
+    {
+        "id": 4,
+        "title": "Laptop Aser",
+        "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/Acer/Aspire_5_A515-56-511A/Acer_Aspire_5_A515_56_511A_3.jpg",
+        "price": "280",
+        "description": "Best Product This Year"
+    }
+]
